@@ -21,7 +21,7 @@
 ### 🏛️ Classics
 - **Philosophie Africaines** – *Séverine KODJO-GRANDVAUX*
 - **Class, Race, and Inequality in South Africa** – Jeremy Seekings and Nicoli Nattrass*
-- **Harcelé-Hrceleur Une histoire de souffrance et de silence** – *Hélène Molière* 
+- **Harcelé-Harceleur Une histoire de souffrance et de silence** – *Hélène Molière* 
 - ****
 
 ---
