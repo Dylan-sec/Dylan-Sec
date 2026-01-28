@@ -1,5 +1,5 @@
 # Lecture 📖
-*Expand your knowledge*
+Expand your knowledge
 
 ---
 
