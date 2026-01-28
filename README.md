@@ -4,21 +4,21 @@
 ---
 
 ## 📐 Mathematical Foundations & Theory
-> "Understanding the logic behind the logic."
-
-### 📚 Completed Readings
 - **Algèbre I GROUPES, CORPS ET THEORIE DE GALOIS** - *Daniel Guin et Thomas Hausberger* 
 - **Algèbre II ANNEAUX, MODULES ET ALGEBRE MULTILINEAIRE** - *Daniel Guin* 
-
-### ⏳ Currently Reading / Upcoming
 - **Algèbre linéaire, algèbre bilinéaire Cours et exercices corrigés** - *Mohammed Houimdi*
 
 ---
 
-## 📖 Library 
-> "A mind needs books as a sword needs a whetstone, if it is to keep its edge."
+## 📖 Cybersecurity
 
-### 🏛️ Classics
+- **Black Hat Bash Creative Scripting For Hackers and Pentesters** – *Dolev Farhi and Nick Aleks*
+- **Kali Linux Wireless Pentesting and Security** – *Hardeep Singh*
+
+---
+
+## 📖 Library 
+
 - **Philosophie Africaines** – *Séverine KODJO-GRANDVAUX*
 - **Class, Race, and Inequality in South Africa** – Jeremy Seekings and Nicoli Nattrass*
 - **Harcelé-Harceleur Une histoire de souffrance et de silence** – *Hélène Molière* 
