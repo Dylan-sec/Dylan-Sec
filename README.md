@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Dylan-sec 👋
+*Cybersecurity Student | Pentest Enthusiast | Lifelong Learner*
 
-<!--
-**Dylan-sec/Dylan-Sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📐 Mathematical Foundations & Theory
+> "Understanding the logic behind the logic."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Completed Readings
+- **Algèbre I GROUPES, CORPS ET THEORIE DE GALOIS** - *Daniel Guin et Thomas Hausberger* 
+- **Algèbre II ANNEAUX, MODULES ET ALGEBRE MULTILINEAIRE** - *Daniel Guin* 
+
+### ⏳ Currently Reading / Upcoming
+- **Algèbre linéaire, algèbre bilinéaire Cours et exercices corrigés** - *Mohammed Houimdi*
+
+---
+
+## 🔗 Connect with me
+[Linkedin](https://www.linkedin.com/in/dylan-sec/) 
+[Medium](https://medium.com/@Dylan-Sec)
