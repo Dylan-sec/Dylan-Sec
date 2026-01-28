@@ -1,5 +1,5 @@
 # Hi, I'm Dylan-sec 👋
-*Cybersecurity Student | Pentest Enthusiast | Lifelong Learner*
+*Expand your knowledge*
 
 ---
 
