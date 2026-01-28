@@ -1,4 +1,4 @@
-# Hi, I'm Dylan-sec 👋
+# Lecture 📖
 *Expand your knowledge*
 
 ---
