@@ -13,7 +13,7 @@
 ## 📖 Cybersecurity
 
 - **Black Hat Bash Creative Scripting For Hackers and Pentesters** – *Dolev Farhi and Nick Aleks*
-- **Kali Linux Wireless Pentesting and Security** – *Hardeep Singh*
+- **Black Hat Python Python Programming for Hackers and Pentesters** – *(Justin Seitz, Tim Arnold)*
 
 ---
 
